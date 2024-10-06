@@ -22,4 +22,8 @@ def create_app():
     # register the routes
     app.register_blueprint(todos_bp(db), url_prefix="/todos")
 
+    @app.route("/")
+    def hello_world():
+        return "Greetings, Mars!"
+
     return app

@@ -1,0 +1,10 @@
+INSERT INTO todos (task, completed) VALUES ('Buy groceries', false);
+INSERT INTO todos (task, completed) VALUES ('Finish project report', false);
+INSERT INTO todos (task, completed) VALUES ('Clean the house', true);
+INSERT INTO todos (task, completed) VALUES ('Book doctor appointment', false);
+INSERT INTO todos (task, completed) VALUES ('Read a book', true);
+INSERT INTO todos (task, completed) VALUES ('Go for a run', false);
+INSERT INTO todos (task, completed) VALUES ('Prepare dinner', false);
+INSERT INTO todos (task, completed) VALUES ('Attend meeting at 3 PM', false);
+INSERT INTO todos (task, completed) VALUES ('Pay electricity bill', true);
+INSERT INTO todos (task, completed) VALUES ('Plan weekend getaway', false);
